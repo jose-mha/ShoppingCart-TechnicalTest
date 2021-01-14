@@ -1,6 +1,5 @@
 # shopping-cart
 
-<<<<<<< HEAD
 ### Resolución del problema
 
 Se usaron las siguientes tecnologías, para dar solución al prblema planteado
@@ -14,18 +13,6 @@ Se usaron las siguientes tecnologías, para dar solución al prblema planteado
 
 ### Requerimientos mínimos
 
-=======
-###Resolución del problema
-Se usaron las siguientes tecnologías, para dar solución al prblema planteado
-- Vue.js 2.6.12
-- Vuetify  2.4.2
-- vue-router - Para el uso de rutas
-- vuex - Para la comunicación entre los componentes
-- fetch para las llamadas api
-- funciones de actuales de ECMAScript
-
-###Requerimientos mínimos
->>>>>>> 559142fcf59b8e0a680b0046cbeed8efa84036d4
 Node.js v12.18.3
 
 ## Project setup
@@ -53,7 +40,6 @@ npm run lint
 ```
 
 # Fixes in technical_test
-<<<<<<< HEAD
 
 ### add library
 
@@ -68,16 +54,5 @@ Una vez agregado modificamos el archivo server.js y le agregamos las siguientes 
 ```javascript
 const cors = require('cors')
 app.use(cors())
-=======
-### add library
-En el repositorio compartido llamado technical_test, instalar la siguiente dependencia, para evitar el bloqueo al consumir el servicio en el proyecto cliente.
 ```
-npm install --save cors
-```
-Una vez agregado modificamos el archivo server.js y le agregamos las siguientes lineas de código
 
-```javascript
-const cors = require('cors');
-app.use(cors());
->>>>>>> 559142fcf59b8e0a680b0046cbeed8efa84036d4
-```
