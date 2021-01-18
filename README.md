@@ -1,5 +1,8 @@
 # shopping-cart
 
+### Demo
+https://shoppingcart-technicaltest.netlify.app
+
 ### Resolución del problema
 
 Se usaron las siguientes tecnologías, para dar solución al prblema planteado
